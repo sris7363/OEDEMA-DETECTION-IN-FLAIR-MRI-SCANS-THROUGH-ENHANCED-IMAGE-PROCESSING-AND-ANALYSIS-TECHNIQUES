@@ -1,0 +1,2 @@
+# OEDEMA-DETECTION-IN-FLAIR-MRI-SCANS-THROUGH-ENHANCED-IMAGE-PROCESSING-AND-ANALYSIS-TECHNIQUES
+This project uses a convolution-like approach to enhance MRI scans in NIfTI format. It processes images sequentially, where each layer's output becomes the next layer's input. The process includes displaying 3D images for geometry analysis and feature discovery, with Python tools to extract and display central MRI slices for further modification.
